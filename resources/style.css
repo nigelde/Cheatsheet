@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    background-color: #fafad2;
+  }
+  
+  h1,
+  h3 {
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 40px;
+  }
+  
+  p {
+    width: 50%;
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+  }
+  
+  .table {
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .heading {
+    color: #fff;
+    background-color: teal;
+    padding: 5px;
+  }
+  
+  .command {
+    background-color: lightblue;
+    padding: 5px;
+  }
+  
+  .meaning {
+    background-color: purple;
+    color: #FFF;
+    padding: 5px;
+  }
+  
+  .description {
+    background-color: lightgreen;
+    padding: 5px;
+  }
